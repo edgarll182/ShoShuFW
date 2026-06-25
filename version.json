@@ -1,6 +1,8 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "build": "25/06/2026",
-  "notes": "Prueba OTA",
-  "url": "https://github.com/edgarll182/ShoShuFW/releases/download/v1.2/firmware.bin"
+  "notes": "OTA SHA/Size",
+  "size": 1052384,
+  "sha256": "0ec792daa35e8e21a33a1ba78fa5aa61f23a847f24061e9fe6abb1a3ae4dfda3",
+  "url": "https://github.com/edgarll182/ShoShuFW/releases/download/v1.3/firmware.bin"
 }
