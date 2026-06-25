@@ -1,6 +1,6 @@
 {
   "version": "1.2",
-  "build": "21/06/2026",
-  "notes": "WiFi/NTP",
+  "build": "25/06/2026",
+  "notes": "Prueba OTA",
   "url": "https://github.com/edgarll182/ShoShuFW/releases/download/v1.2/firmware.bin"
 }
